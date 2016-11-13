@@ -1,0 +1,12 @@
+name: SiblingPVP
+main: cc.isotopestudio.SiblingPVP.SiblingPVP
+
+author: Mars
+description: SiblingPVP
+website: http://isotopestudio.cc
+version: 1.0.0
+
+commands:
+  spvp:
+    description: SiblingPVP command
+    usage: /<command> - Get Information
